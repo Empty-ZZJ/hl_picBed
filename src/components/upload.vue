@@ -7,6 +7,7 @@
             :cancel-upload-button="showUploadButton ? { theme: 'default', content: '取消上传' } : null">
         </t-upload>
 
+
         <t-card style="width: 90%;" title="上传结果（点击链接复制）" header-bordered>
             <div style="display: flex;flex-direction: column;gap: 1px;align-items: center;justify-items: center;flex-wrap: wrap;
    ">

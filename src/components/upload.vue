@@ -18,7 +18,7 @@
 
 
                 <!-- 如果 files 数组为空，显示 "暂无结果" -->
-                <div v-if="files.length === 0" style="width: 100%;" theme="default" variant="text">
+                <div v-if="files.length === 0" style="width: 100%;text-align: center;" variant="text">
                     暂无结果
                 </div>
 

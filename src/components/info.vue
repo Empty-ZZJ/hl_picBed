@@ -16,6 +16,9 @@
             <t-collapse-panel destroy-on-collapse header="我最大可以上传多少张图片？">
                 花濑图床不对上传的图片数量做限制。
             </t-collapse-panel>
+            <t-collapse-panel destroy-on-collapse header="为什么会上传失败？">
+                请先检查上传文件是否为图片，且后缀为：jpg、jpeg、png、webp、gif。暂不支持其他格式的图片。若仍然上传失败，则可能是服务器异常，请稍后再试。
+            </t-collapse-panel>
 
         </t-collapse>
     </t-space>

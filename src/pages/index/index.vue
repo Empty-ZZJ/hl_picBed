@@ -11,7 +11,6 @@
         <t-divider>赞助我们</t-divider>
         <spon></spon>
         <footerA></footerA>
-
     </div>
 </template>
 
